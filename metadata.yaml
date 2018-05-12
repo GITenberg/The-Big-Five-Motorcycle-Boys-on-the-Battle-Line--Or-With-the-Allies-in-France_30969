@@ -1,0 +1,26 @@
+_repo: The-Big-Five-Motorcycle-Boys-on-the-Battle-Line--Or-With-the-Allies-in-France_30969
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30969-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Marlow, Ralph
+    gutenberg_agent_id: '34925'
+    url: http://www.gutenberg.org/2009/agents/34925
+description: ''
+gutenberg_issued: '2010-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30969'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Motorcycles -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+title: The Big Five Motorcycle Boys on the Battle Line; Or, With the Allies in France
+url: http://www.gutenberg.org/ebooks/30969
